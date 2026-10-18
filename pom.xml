@@ -27,7 +27,7 @@ x<project xmlns="http://maven.apache.org/POM/4.0.0"
 <distributionManagement>
     <repository>
         <id>nexus-onlinebookstore</id>
-        <url>http://54.84.216.238:8081/repository/OnlineBookStore/</url>
+        <url>http://172.31.21.115:8081/repository/OnlineBookStore/</url>
     </repository>
 </distributionManagement>
 </project>
