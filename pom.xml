@@ -27,7 +27,7 @@
 <distributionManagement>
     <repository>
         <id>nexus-onlinebookstore</id>
-        <url>http://172.31.21.115:8081/repository/OnlineBookStore/</url>
+        <url>http://172.31.46.26:8081/repository/OnlineBookStore/</url>
     </repository>
 </distributionManagement>
 </project>
